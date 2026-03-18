@@ -17,6 +17,19 @@ main {
   padding: 20px;
 }
 
+h3{ 
+font-size: 20px 0;
+text-align: center;
+}
+dd{
+    text-align: center;
+}
+
+dl dt {
+    text-align: center;
+    margin:20px 0;
+}
+
 section {
   background-color: white;
   padding: 20px;
